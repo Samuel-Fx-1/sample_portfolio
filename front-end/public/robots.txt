@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SamuelPort.vercel.app/sitemap.xml

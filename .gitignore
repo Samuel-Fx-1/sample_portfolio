@@ -1,0 +1,9 @@
+node_modules/
+front-end/node_modules/
+
+# Runtime AI answer cache
+.ai-cache.json
+
+# Local env / secrets
+.env.local
+front-end/.env.local
